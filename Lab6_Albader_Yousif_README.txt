@@ -6,7 +6,7 @@ Lab 6
 * *Date Created*: 07 04 2026
 * *Last Modification Date*: 07 04 2026
 * *Lab Gitlab URL*: <https://git.cs.dal.ca/albader/csci-3172/-/tree/main/labs/lab6>
-
+* *Lab GitHub URL*: <https://github.com/albader/lab6-portfolio>
 
 ## Authors
 
