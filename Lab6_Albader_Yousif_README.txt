@@ -7,6 +7,7 @@ Lab 6
 * *Last Modification Date*: 07 04 2026
 * *Lab Gitlab URL*: <https://git.cs.dal.ca/albader/csci-3172/-/tree/main/labs/lab6>
 * *Lab GitHub URL*: <https://github.com/albader/lab6-portfolio>
+* *Netlify URL*: <https://enchanting-twilight-9e0cd0.netlify.app/>
 
 ## Authors
 
